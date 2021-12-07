@@ -66,7 +66,7 @@ function App() {
         todos={todos}
         setTodos={setTodos}
       />
-      <DeleteAll todos={todos} />
+      <DeleteAll todos={todos} setTodos={setTodos} />
     </div>
   );
 }

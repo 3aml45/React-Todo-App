@@ -158,3 +158,16 @@ select {
 .uncompleted-task {
   color: #ff6f47;
 }
+
+.delete-all-btn {
+  padding: 20px;
+  outline: none;
+  border: none;
+  background: none;
+  color: #ddd;
+  font-size: 40px;
+  border-radius: 12px;
+  border: 5px solid #ddd;
+  box-sizing: border-box;
+  cursor: pointer;
+}
